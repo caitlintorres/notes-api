@@ -1,0 +1,24 @@
+{
+  "name": "notes-api",
+  "version": "1.0.0",
+  "description": "A simple RESTful API to create, read, update, and delete notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caitlintorres/notes-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caitlintorres/notes-api/issues"
+  },
+  "homepage": "https://github.com/caitlintorres/notes-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
